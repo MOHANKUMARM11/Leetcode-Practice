@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/leetcode-practice-mohan.iml" filepath="$PROJECT_DIR$/leetcode-practice-mohan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-practice/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/leetcode-practice/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-practice/PrefSum/PrefSum.iml" filepath="$PROJECT_DIR$/leetcode-practice/PrefSum/PrefSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-practice/leetcode-practice.iml" filepath="$PROJECT_DIR$/leetcode-practice/leetcode-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-practice/sliding-window/sliding-window.iml" filepath="$PROJECT_DIR$/leetcode-practice/sliding-window/sliding-window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-practice/two-pointers/two-pointers.iml" filepath="$PROJECT_DIR$/leetcode-practice/two-pointers/two-pointers.iml" />
     </modules>
   </component>
 </project>
